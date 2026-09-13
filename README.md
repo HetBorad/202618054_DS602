@@ -1,5 +1,9 @@
 # Medical Insurance Statistical Modeling & Interactive Dashboard
 
+## 🚀 Live Demo
+
+👉 **[Open the Dashboard](https://medical-insurance-statistical-dashboard.streamlit.app/)**
+
 ## 📌 Project Overview
 
 This project applies statistical modeling and hypothesis testing to the Medical Insurance Costs dataset.
